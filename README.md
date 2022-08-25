@@ -666,7 +666,7 @@ SECCIÓN 16–2 Impedancia de circuitos RL en serie
 
 4. Video:
 
-
+https://youtu.be/6VybRHigg1s
 
 5. Conclusiones:
 
